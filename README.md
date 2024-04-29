@@ -33,8 +33,9 @@ Essa análise aprofundada contribui para a avaliação da eficácia e equidade d
 <hr>
 
 ### Projeto Final:
-![prouni4](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/bea8c8b8-bcf0-4f13-9b18-bf7850f8080a)
-![prouni1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/fcdc3b07-d16d-436d-aa6e-6aeb912a3f42)
-![prouni2](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/f3370551-71de-4dee-a017-485fa274cfb5)
-![prouni3](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/aa680327-1f20-4699-bd2d-c6f0f431ccfc)
+![capa](https://github.com/AlbertoFAraujo/PBI_Dashboard_PROUNI/assets/105552990/d68e4072-034b-46eb-b854-c82978c1bf11)
+![p1](https://github.com/AlbertoFAraujo/PBI_Dashboard_PROUNI/assets/105552990/5a61f324-df8f-4ac0-a951-63b3a65bbae1)
+![p2](https://github.com/AlbertoFAraujo/PBI_Dashboard_PROUNI/assets/105552990/e8a00adb-5100-4cde-bbab-f0aef575508c)
+![p3](https://github.com/AlbertoFAraujo/PBI_Dashboard_PROUNI/assets/105552990/623b11cf-ef10-4c0e-a9fb-7fad8d4b7a53)
+
 
